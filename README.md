@@ -58,7 +58,10 @@ _Include a link to your live demo here if hosted._
 
 ## Screenshots
 
-   ![Dashboard](public/assets/dashboard.png)
+   ![Dashboard](public/assets/screenshots/dashboard.png)
+   ![Adding Appointments](public/assets/screenshots/add-appointment.png)
+   ![Editing Appointments](public/assets/screenshots/edit-appointment.png)
+   ![Deleting Appointments](public/assets/screenshots/delete-appointment.png)
 
 ## Author
 
