@@ -22,3 +22,44 @@ _You can include a link to your live demo here if hosted._
 1. Clone the repository:
    ```bash
    git clone https://github.com/DannonGibby/appointment-frontend.git
+2. Navigate to the project folder:
+   cd appointment-frontend
+3. Install dependencies:
+   npm install
+4. Start the development server:
+   npm start
+5. Open your browser at http://localhost:3000
+
+## Project Structure
+   appointment-frontend/
+   ├── public/
+   ├── src/
+   │   ├── Components/
+   │   │   ├── Header.jsx
+   │   │   ├── Footer.jsx
+   │   │   ├── AppointmentForm.jsx
+   │   │   └── AppointmentList.jsx
+   │   ├── App.jsx
+   │   └── index.js
+   ├── package.json
+   └── tailwind.config.js
+
+## Usage
+
+- Navigate to the dashboard to see all upcoming appointments.
+
+- Fill out the “Add Appointment” form to schedule a new appointment.
+
+- Use the Edit and Delete buttons to modify or remove appointments.
+
+## Screenshots
+
+
+
+## Author
+
+### Dannon Gibby
+
+GitHub
+
+LinkedIn
