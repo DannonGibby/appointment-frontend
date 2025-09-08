@@ -23,14 +23,18 @@ _You can include a link to your live demo here if hosted._
    ```bash
    git clone https://github.com/DannonGibby/appointment-frontend.git
 2. Navigate to the project folder:
+   ```bash
    cd appointment-frontend
 3. Install dependencies:
+   ```bash
    npm install
 4. Start the development server:
+   ```bash
    npm start
 5. Open your browser at http://localhost:3000
 
 ## Project Structure
+   ```bash
    appointment-frontend/
    ├── public/
    ├── src/
@@ -60,6 +64,4 @@ _You can include a link to your live demo here if hosted._
 
 ### Dannon Gibby
 
-GitHub
 
-LinkedIn
