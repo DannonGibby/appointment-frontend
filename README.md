@@ -47,7 +47,7 @@ _You can include a link to your live demo here if hosted._
    │   └── index.js
    ├── package.json
    └── tailwind.config.js
-
+   ```
 ## Usage
 
 - Navigate to the dashboard to see all upcoming appointments.
