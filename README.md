@@ -11,30 +11,33 @@ _Include a link to your live demo here if hosted._
 - Dashboard overview of upcoming appointments
 - Interactive forms with validation
 - Polished styling using **Tailwind CSS**
+- Live deployment on Render, connected to a Spring Boot backend
 
 ## Technologies Used
 - **React** – Component-based frontend library
 - **Tailwind CSS** – Utility-first CSS framework for styling
 - **Axios** – For HTTP requests to the backend API
 - **React Hooks** – `useState` and `useEffect` for state management and lifecycle
+- **Render** - Hosting for live frontend deployment
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DannonGibby/appointment-frontend.git
-2. Navigate to the project folder:
-   ```bash
-   cd appointment-frontend
-3. Install dependencies:
-   ```bash
+## Deployment
+The frontend is deployed on **Render** for production use.
+It iteracts with the backend API using the live backend URL.
+**1. Build locally (optional for development):**
+   ```
    npm install
-4. Start the development server:
-   ```bash
-   npm start
-5. Open your browser at http://localhost:3000
-
+   npm run build
+   ```
+**2. Serve locally for testing (optional):**
+   ```
+   npm install -g serve
+   serve -s build
+   ```
+**3. Live deployment:**
+Hosted on Render at https://appointment-backend-t9yq.onrender.com
+   
 ## Project Structure
-   ```bash
+   ```
    appointment-frontend/
    ├── public/
    ├── src/
