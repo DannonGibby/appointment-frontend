@@ -2,6 +2,12 @@
 
 A modern, responsive, and user-friendly **Appointment Scheduler** built with **React** and **Tailwind CSS**. This frontend application allows users to manage their appointments with ease, offering a clean dashboard, intuitive forms, and a visually appealing interface.  
 
+## Live Demo
+**Frontend (Live App)**:
+[View](https://appointment-backend-t9yq.onrender.com/)
+
+The frontend communicates with this live backend API, allowing real-time interaction between the UI and database.
+
 ## Features
 - Add, edit, and delete appointments
 - Responsive design that works on desktop and mobile
