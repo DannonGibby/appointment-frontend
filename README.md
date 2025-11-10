@@ -69,8 +69,10 @@ Hosted on Render at https://appointment-backend-t9yq.onrender.com
    ![Editing Appointments](public/assets/screenshots/edit-appointment.png)
    ![Deleting Appointments](public/assets/screenshots/delete-appointment.png)
 
-## Author
+## Related Repositories
+**Backend:** [Appointment Backend](https://github.com/DannonGibby/appointment-backend)
 
+## Author
 ### Dannon Gibby
 
 
